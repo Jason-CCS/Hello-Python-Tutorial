@@ -1,1 +1,0 @@
-This is python tutorial written by Jason.
