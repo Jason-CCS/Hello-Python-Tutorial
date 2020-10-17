@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](Introduction.md)
+* [Introduction](README.md)
 * [Python Day 1](Python Day 1/1.md)
     * [SDLC](Software Basic/SDLC.md)
     * [Different Testing](Software Basic/Different Testing.md)
