@@ -1,10 +1,1 @@
-# README
-
-## Hello-Python-Tutorial
-
-yoyo ajsdjkflakdfj
-
-sladjflkskdljflakjdsf
-
-## TY is Gay.
-
+This is python tutorial written by Jason.
