@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Preface](README.md)
-* [Test]
 * [Introduction](Introduction/0.md)
     * [What is Python?](Introduction/1.md)
     * [Language level](Introduction/2.md)
