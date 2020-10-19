@@ -1,7 +1,1 @@
-Placeholder
-
-
-
-
-
-
+Install Python and some basics to learn.

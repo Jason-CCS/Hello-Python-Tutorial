@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Preface]
-    * [What is Python?](Preface/1.md)
-    * [Language level](Preface/2.md)
-    * [Python can do](Preface/3.md)
-    * [Python can not do](Preface/4.md)
-    * [Who using Python?](Preface/5.md)
-* [Python Basic]
+* [Introduction](README.md)
+    * [What is Python?](Introduction/1.md)
+    * [Language level](Introduction/2.md)
+    * [Python can do](Introduction/3.md)
+    * [Python can not do](Introduction/4.md)
+    * [Who using Python?](Introduction/5.md)
+* [Python Basic](Python Basic/preface.md)
     * [Install Python](Python Basic/1.md)
     * [Run Python on IDLE](Python Basic/2.md)
     * [Operator/Operand](Python Basic/3.md)
