@@ -12,9 +12,8 @@
     * [Run Python on IDLE](Python Basic/2.md)
     * [Operator/Operand](Python Basic/3.md)
     * [Data Type](Python Basic/4.md)
-    * [Assignment]
-    * [Variable]
-    * [First App]
+    * [Assignment](Python Basic/5.md)
+    * [First App](Python Basic/6.md)
     * [Homework]
 * [Flow Control]
 * [String Operation]
