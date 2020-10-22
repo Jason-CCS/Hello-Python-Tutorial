@@ -22,7 +22,8 @@
     * [If/Else](Flow Control/4.md)
     * [While](Flow Control/5.md)
     * [For loop](Flow Control/6.md)
-* [String Operation]
+    * [Import](Flow Control/7.md)
+    * [Homework](Flow Control/8.md)
 * [Function]
 * [List]
 * [Map]
