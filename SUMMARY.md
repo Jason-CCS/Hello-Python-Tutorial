@@ -20,6 +20,8 @@
     * [Relational Operator](Flow Control/2.md)
     * [Code Block](Flow Control/3.md)
     * [If/Else](Flow Control/4.md)
+    * [While](Flow Control/5.md)
+    * [For loop](Flow Control/6.md)
 * [String Operation]
 * [Function]
 * [List]
