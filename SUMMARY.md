@@ -26,6 +26,7 @@
     * [Homework](Flow Control/8.md)
 * [Function]
 * [List]
-* [Map]
+* [Dictionary]
+* [Tuple]
 
 
