@@ -24,7 +24,8 @@
     * [For loop](Flow Control/6.md)
     * [Import](Flow Control/7.md)
     * [Homework](Flow Control/8.md)
-* [Function]
+* [Function](Function/0.md)
+    * [A](Function/1.md)
 * [List]
 * [Dictionary]
 * [Tuple]
