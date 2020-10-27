@@ -25,7 +25,11 @@
     * [Import](Flow Control/7.md)
     * [Homework](Flow Control/8.md)
 * [Function](Function/0.md)
-    * [A](Function/1.md)
+    * [First Function](Function/1.md)
+    * [Return Statement](Function/2.md)
+    * [Function Scope](Function/3.md)
+    * [Try/Except](Function/4.md)
+    * [Homework](Function/5.md) 
 * [List]
 * [Dictionary]
 * [Tuple]
