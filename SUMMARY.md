@@ -30,8 +30,8 @@
     * [Function Scope](Function/3.md)
     * [Try/Except](Function/4.md)
     * [Homework](Function/5.md) 
-* [List]
+* [List/Tuple](List and Tuple/0.md)
 * [Dictionary]
-* [Tuple]
+* 
 
 
