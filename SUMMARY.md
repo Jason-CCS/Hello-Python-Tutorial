@@ -31,6 +31,7 @@
     * [Try/Except](Function/4.md)
     * [Homework](Function/5.md) 
 * [List/Tuple](List and Tuple/0.md)
+    * [List](List and Tuple/1.md)
 * [Dictionary]
 * 
 
