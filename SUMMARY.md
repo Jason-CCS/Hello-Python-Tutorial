@@ -32,6 +32,8 @@
     * [Homework](Function/5.md) 
 * [List/Tuple](List and Tuple/0.md)
     * [List](List and Tuple/1.md)
+    * [List Example](List and Tuple/2.md)
+    * [Method](List and Tuple/3.md)
 * [Dictionary]
 * 
 
