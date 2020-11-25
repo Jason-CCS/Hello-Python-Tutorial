@@ -34,6 +34,10 @@
     * [List](List and Tuple/1.md)
     * [List Example](List and Tuple/2.md)
     * [Method](List and Tuple/3.md)
+    * [List-like Type](List%20and%20Tuple/4.md)
+    * [Reference](List%20and%20Tuple/5.md)
+    * [Copy Module](List%20and%20Tuple/6.md)
+    * [Homework](List%20and%20Tuple/7.md)
 * [Dictionary]
 * 
 
