@@ -38,7 +38,11 @@
     * [Reference](List%20and%20Tuple/5.md)
     * [Copy Module](List%20and%20Tuple/6.md)
     * [Homework](List%20and%20Tuple/7.md)
-* [Dictionary]
+* [Dictionary](Dictionary/0.md)
+    * [Dictionary](Dictionary/1.md)
+    * [Method](Dictionary/2.md)
+    * [Dictionary Example](Dictionary/3.md)
+    * [Homework](Dictionary/4.md)
 * 
 
 
