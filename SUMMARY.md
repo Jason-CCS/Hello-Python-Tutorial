@@ -43,6 +43,6 @@
     * [Method](Dictionary/2.md)
     * [Dictionary Example](Dictionary/3.md)
     * [Homework](Dictionary/4.md)
-* 
+* [String Operation](String%20Operation/0.md) 
 
 
