@@ -44,5 +44,11 @@
     * [Dictionary Example](Dictionary/3.md)
     * [Homework](Dictionary/4.md)
 * [String Operation](String%20Operation/0.md) 
+    * [Escape Character](String%20Operation/1.md)
+    * [Raw String](String%20Operation/2.md)
+    * [In/Not In](String%20Operation/3.md)
+    * [String Method1](String%20Operation/4.md)
+    * [String Method2](String%20Operation/5.md)
+    * [Homework](String%20Operation/6.md)
 
 
