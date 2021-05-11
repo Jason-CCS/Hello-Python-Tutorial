@@ -50,5 +50,11 @@
     * [String Method1](String%20Operation/4.md)
     * [String Method2](String%20Operation/5.md)
     * [Homework](String%20Operation/6.md)
+* [Advance](String%20Operation/0.md)
+    * [Classes and Objects]
+    * [Datetime]
+    * [Module]
+    * [Json]
+    * [Regular expression]
 
 
