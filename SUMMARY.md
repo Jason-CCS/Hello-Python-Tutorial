@@ -28,7 +28,7 @@
     * [First Function](Function/1.md)
     * [Return Statement](Function/2.md)
     * [Function Scope](Function/3.md)
-    * [Try/Except](Function/4.md)
+    * [Try/Except/finally](Function/4.md)
     * [Homework](Function/5.md) 
 * [List and Tuple](List%20and%20Tuple/0.md)
     * [List](List%20and%20Tuple/1.md)
